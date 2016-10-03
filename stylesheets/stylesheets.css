@@ -1,0 +1,21 @@
+body {
+    color: #08b0f5;
+    background: rgba(253, 223, 228, 0.08);
+}
+
+blockquote {
+    color: #f46c83;
+    background-color: gold;
+}
+
+h1 {
+    color: rgba(33, 145, 214, 0.85);
+}
+
+strong {
+    color: #00F;
+    color: #f00;
+}
+
+
+/*p{color;navy}*/
